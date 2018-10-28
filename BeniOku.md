@@ -7,3 +7,8 @@
 
 3- Bu program "libcurl" adında bir kütüphane kullanır. Bilgi için  https://curl.haxx.se/libcurl/
 
+4- Bu program için herhangi bir lisanslama mevcut değildir. İçerdiği açık kaynak projeleri lisanslama içerebilir.
+
+5-  Bu programı kullanırken risklerini (veri kaybı ve değişmesi , sistem çökmesi(yazılımsal veya donanımsal) ) kabul etmiş olursunuz. 
+    Herhangi bir riskleri önlemek için lütfen sistem yedeğinizi alın. 
+
