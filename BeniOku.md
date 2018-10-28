@@ -1,5 +1,4 @@
-# KSP
-Kolay Sunucu Programı
+# KSP (Kolay Sunucu Programı)
 
 1- Şu an için programı sadece C:\  klasörüne kurun. 
 
