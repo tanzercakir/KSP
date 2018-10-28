@@ -15,6 +15,12 @@
 
 6- Bu program için herhangi bir lisanslama mevcut değildir. İçerdiği açık kaynak projeleri lisanslama içerebilir.
 
-7- Bu programı kullanırken risklerini (veri kaybı veya değişimi, sistem çökmesi (yazılımsal veya donanımsal)) kabul 
-   etmiş olursunuz. Herhangi bir riskleri önlemek için lütfen sistem yedeğinizi alın. 
+7- Bu projede kaynak kodlar verilmemiştir. KSP öncelikle eğitim ve küçük-orta boyutlu projeler için planlanmış bir projedir. 
+   Yabancı dille ilgili gelişen öğrenme zorluğu ve diğer dillerle ilgili öğrenme ve bilgi karmaşasının üstesinden 
+   gelebilmek için tasarlanmıştır. Bu tasarım amaçlarının etkilenmemesi ve dilin hızlı bir şekilde gelişimini
+   engellemek için kaynak kodları şimdilik paylaşılmayacaktır. Gelecek dönemlerde dilin kullanımının yaygınlaşması
+   ve amacına ulaşması halinde bu strateji uygun şekilde değiştirilebilir. 
+
+8- Bu programı kullanırken risklerini (veri kaybı veya değişimi, sistem çökmesi (yazılımsal veya donanımsal)) kabul 
+   etmiş olursunuz. Herhangi bir riskleri önlemek için lütfen sistem yedeğinizi alınız. 
 
